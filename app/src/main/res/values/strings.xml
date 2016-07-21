@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Portfolio App</string>
+
+    <!-- Main activity string resources -->
+    <string name="main_activity_title">My Portfolio App!</string>
+    <string name="popular_movies">POPULAR MOVIES</string>
+    <string name="stock_hawk">STOCK HAWK</string>
+    <string name="build_it_bigger">BUILD IT BIGGER</string>
+    <string name="make_your_app_material">MAKE YOUR APP MATERIAL</string>
+    <string name="go_ubiquitous">GO UBIQUITOUS</string>
+    <string name="capstone">CAPSTONE</string>
+    <string name="message_popular_movies">This button will open the app Popular Movies</string>
+    <string name="message_stock_hawk">This button will open the app Stock Hawk</string>
+    <string name="message_build_it_bigger">This button will open the app Build It Bigger</string>
+    <string name="message_make_your_app_material">This button will open the app Make Your App Material</string>
+    <string name="message_go_ubiquitous">This button will open the app Go Ubiquitous</string>
+    <string name="message_capstone">This button will open the app Capstone</string>
+
+</resources>
